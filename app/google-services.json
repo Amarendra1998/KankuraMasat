@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "701037062709",
+    "firebase_url": "https://kankura-masat.firebaseio.com",
+    "project_id": "kankura-masat",
+    "storage_bucket": "kankura-masat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701037062709:android:3495ce29dd6c40a8",
+        "android_client_info": {
+          "package_name": "com.example.computer.kankuramasat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701037062709-4i8bphhrerg9djjfv8kqjlpjr1ev6b8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.computer.kankuramasat",
+            "certificate_hash": "5eb8a2b428d0ca164f56d0abe5507430b6f385d8"
+          }
+        },
+        {
+          "client_id": "701037062709-d6taagknmha3f8d56clv1k7p73ka49qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4TLoHoB9pKs_lLV4cfQ5FwOniUfjr6oA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701037062709-d6taagknmha3f8d56clv1k7p73ka49qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
